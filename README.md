@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0056-merge-intervals) |
 | [1051-height-checker](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1051-height-checker) |
 | [1859-sorting-the-sentence](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1859-sorting-the-sentence) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Array
 |  |
 | ------- |
@@ -27,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [1051-height-checker](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1051-height-checker) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -61,8 +64,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0643-maximum-average-subarray-i) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
