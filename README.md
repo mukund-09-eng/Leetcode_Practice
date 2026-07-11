@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1859-sorting-the-sentence](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1859-sorting-the-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0041-first-missing-positive) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1004-max-consecutive-ones-iii) |
