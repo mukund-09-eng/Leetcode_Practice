@@ -145,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
