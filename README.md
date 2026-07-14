@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0056-merge-intervals) |
+| [0209-minimum-size-subarray-sum](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0713-subarray-product-less-than-k) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0904-fruit-into-baskets) |
