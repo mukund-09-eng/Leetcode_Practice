@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0056-merge-intervals) |
 | [0209-minimum-size-subarray-sum](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0904-fruit-into-baskets) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
