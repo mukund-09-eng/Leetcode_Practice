@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1859-sorting-the-sentence](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1859-sorting-the-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0796-rotate-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
