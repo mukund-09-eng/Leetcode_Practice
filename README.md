@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0008-string-to-integer-atoi) |
 | [0076-minimum-window-substring](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0796-rotate-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1859-sorting-the-sentence](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1859-sorting-the-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
