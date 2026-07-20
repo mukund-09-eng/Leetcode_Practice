@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1051-height-checker) |
+| [1260-shift-2d-grid](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
