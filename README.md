@@ -168,10 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0100-same-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0100-same-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0100-same-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0100-same-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
