@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -219,17 +220,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
