@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0162-find-peak-element) |
