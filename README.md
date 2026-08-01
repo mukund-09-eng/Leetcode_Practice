@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0202-happy-number) |
+| [0486-predict-the-winner](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0643-maximum-average-subarray-i) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0486-predict-the-winner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0486-predict-the-winner) |
 ## Combinatorics
 |  |
 | ------- |
@@ -303,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0374-guess-number-higher-or-lower) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
