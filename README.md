@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1563-stone-game-v](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
