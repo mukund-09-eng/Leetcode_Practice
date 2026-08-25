@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0328-odd-even-linked-list](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
