@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0633-sum-of-square-numbers) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0328-odd-even-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
