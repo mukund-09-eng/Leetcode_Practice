@@ -398,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
