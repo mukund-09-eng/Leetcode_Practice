@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0039-combination-sum) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0031-next-permutation) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0633-sum-of-square-numbers) |
