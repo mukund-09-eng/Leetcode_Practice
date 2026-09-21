@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0713-subarray-product-less-than-k) |
+| [0746-min-cost-climbing-stairs](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0904-fruit-into-baskets) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0486-predict-the-winner](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0486-predict-the-winner) |
+| [0746-min-cost-climbing-stairs](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1406-stone-game-iii) |
