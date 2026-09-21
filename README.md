@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0633-sum-of-square-numbers) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0486-predict-the-winner](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0746-min-cost-climbing-stairs) |
@@ -408,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1683-invalid-tweets](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1683-invalid-tweets) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
