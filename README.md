@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0322-coin-change](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0322-coin-change](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0877-stone-game) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0100-same-tree) |
+| [0322-coin-change](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0322-coin-change) |
 | [2685-count-the-number-of-complete-components](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
@@ -414,4 +417,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
