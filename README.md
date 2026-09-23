@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0904-fruit-into-baskets) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
