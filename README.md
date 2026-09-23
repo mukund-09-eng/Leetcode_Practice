@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0796-rotate-string) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -445,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0518-coin-change-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
