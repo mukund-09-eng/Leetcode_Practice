@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -460,4 +461,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
