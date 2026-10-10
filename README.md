@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0076-minimum-window-substring) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0856-score-of-parentheses) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0031-next-permutation) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0633-sum-of-square-numbers) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
