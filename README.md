@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mukund-09-eng/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
